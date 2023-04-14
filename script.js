@@ -14,7 +14,7 @@ class Animal {
 
 
 class Cat extends Animal {
-	purr(){
+	Purr(){
 		console.log("The "+ this.species + " purrs.");
 	}
 }
